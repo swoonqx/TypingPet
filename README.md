@@ -5,9 +5,9 @@
 원하는 이미지를 사용해 나만의 캐릭터를 만들 수 있으며,  
 GIF / APNG 애니메이션, 키·마우스 패턴, 프리셋, 멀티 펫 기능을 지원합니다.
 
-> **Latest Version: v4.1**
+> **Latest Version: v4.1.1**
 
-[📥 최신 버전 다운로드](https://github.com/swoonqx/TypingPet/releases/download/v4.1/TypingPet_v4.1.zip) · [📝 업데이트 내역](CHANGELOG.md)
+[📥 최신 버전 다운로드](https://github.com/swoonqx/TypingPet/releases/download/V4.1.1/TypingPet_v4.1.1.zip) · [📝 업데이트 내역](CHANGELOG.md)
 
 ---
 
