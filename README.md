@@ -7,7 +7,7 @@ GIF / APNG 애니메이션, 키·마우스 패턴, 프리셋, 멀티 펫 기능�
 
 > **Latest Version: v4.1**
 
-[📥 최신 버전 다운로드](../../releases/latest) · [📝 업데이트 내역](CHANGELOG.md)
+[📥 최신 버전 다운로드](https://github.com/swoonqx/TypingPet/releases/download/v4.1/TypingPet_v4.1.zip) · [📝 업데이트 내역](CHANGELOG.md)
 
 ---
 
