@@ -5,11 +5,11 @@
 원하는 이미지를 사용해 나만의 캐릭터를 만들 수 있으며,  
 GIF / APNG 애니메이션, 키·마우스 패턴, 프리셋, 멀티 펫 기능을 지원합니다.
 
-> **Latest Version: v4.3**
+> **Latest Version: v4.3.1**
 
-[❔FAQ/CONTECT ](https://swoonqx.github.io/TypingPet_FAQ/)
+[❔FAQ/CONTACT ](https://swoonqx.github.io/TypingPet_FAQ/)
 
-[📥 최신 버전 다운로드](https://github.com/swoonqx/TypingPet/releases/download/v4.3/TypingPet_v4.3.zip) · [📝 업데이트 내역](CHANGELOG.md)
+[📥 최신 버전 다운로드](https://github.com/swoonqx/TypingPet/releases/download/v4.3.1/TypingPet_v4.3.1.zip) · [📝 업데이트 내역](CHANGELOG.md)
 
 ---
 
@@ -29,6 +29,21 @@ GIF / APNG 애니메이션, 키·마우스 패턴, 프리셋, 멀티 펫 기능�
 - 🛠️ 오류 발생 시 `%AppData%\TypingPet\error.log`에 원인이 기록됩니다.
 - 🔒 입력한 키의 내용은 저장하거나 전송하지 않습니다.
 - 🌐 프로그램 자체는 인터넷에 접속하지 않습니다.
+
+---
+
+# 🆕 v4.3.1 업데이트
+
+## 수정
+
+- APNG / GIF 애니메이션이 파일에 적힌 속도보다 훨씬 느리게 재생되던 문제를 수정했습니다.
+- 프리셋 `적용` 등에서 "기본 이미지를 찾을 수 없음" 오류가 나던 문제를 수정했습니다. 이제 `images` 폴더가 없어도 기본 이미지가 정상 동작합니다.
+
+## 개선
+
+- 이미지 변경이 실패하면 원인을 안내하고, 저장이 일시적으로 막힌 경우 자동으로 다시 시도합니다.
+- 일부 이상한 APNG 파일도 첫 장면으로 적용할 수 있습니다.
+- 펫을 최대 개수까지 띄운 경우, 다른 펫을 먼저 숨기라는 안내를 추가했습니다.
 
 ---
 
