@@ -16,7 +16,7 @@
 
 # 🐾 Typing Pet
 
-**키보드를 칠 때마다 캐릭터가 손을 번갈아 들며 통통 튀는 Windows용 데스크톱 펫입니다.**
+**키보드를 칠 때마다 캐릭터가 손을 번갈아 들며 통통 튀는 Windows · Mac용 데스크톱 펫입니다.**
 
 원하는 이미지를 사용해 나만의 캐릭터를 만들 수 있으며,  
 GIF / APNG 애니메이션, 키·마우스·게임패드 패턴, 프리셋, 멀티 펫 기능을 지원합니다.
@@ -25,7 +25,7 @@ GIF / APNG 애니메이션, 키·마우스·게임패드 패턴, 프리셋, 멀�
 
 [❔FAQ/CONTACT ](https://swoonqx.github.io/TypingPet_FAQ/)
 
-[🛍️ Microsoft Store](https://apps.microsoft.com/detail/9mxxmx8hxbl4?cid=DevShareMCLPCS&hl=ko-KR&gl=KR) · [📥 최신 버전 다운로드 (GitHub)](https://github.com/swoonqx/TypingPet/releases/download/v5.0.2/TypingPet_v5.0.2.zip) · [📝 업데이트 내역](CHANGELOG.md)
+[🛍️ Microsoft Store](https://apps.microsoft.com/detail/9mxxmx8hxbl4?cid=DevShareMCLPCS&hl=ko-KR&gl=KR) · 📥 최신 버전 다운로드 ([Win](https://github.com/swoonqx/TypingPet/releases/download/v5.0.2/TypingPet_v5.0.2_win.zip), [Mac](https://github.com/swoonqx/TypingPet/releases/download/v5.0.2/TypingPet_v5.0.2_mac.zip)) · [📝 업데이트 내역](CHANGELOG.md)
 
 ---
 
@@ -85,7 +85,17 @@ Typing Pet은 **GitHub Releases**를 통해 배포합니다.
 
 ➡️ **[GitHub Releases에서 다운로드](../../releases/latest)**
 
-Release 페이지의 Assets에서 `TypingPet.exe`를 다운로드한 뒤 실행하면 됩니다.
+Release 페이지의 Assets에서 사용하는 컴퓨터에 맞는 파일을 받습니다.
+
+- **Windows** — [`TypingPet_v5.0.2_win.zip`](https://github.com/swoonqx/TypingPet/releases/download/v5.0.2/TypingPet_v5.0.2_win.zip)을 받아 압축을 풀고 `TypingPet.exe`를 실행합니다.
+- **Mac** — [`TypingPet_v5.0.2_mac.zip`](https://github.com/swoonqx/TypingPet/releases/download/v5.0.2/TypingPet_v5.0.2_mac.zip)을 받아 압축을 풀고 `Typing Pet` 앱을 실행합니다. (macOS 11 이상, Apple Silicon / Intel 공용)
+
+### Mac에서 처음 실행할 때
+
+1. 처음 열 때 "확인되지 않은 개발자" 경고가 나오면, Finder에서 앱을 Control + 클릭한 뒤 `열기`를 고르거나 `시스템 설정 → 개인정보 보호 및 보안` 아래쪽의 `그래도 열기`를 누릅니다.
+2. 다른 앱에서 타이핑할 때 캐릭터가 반응하려면 `시스템 설정 → 개인정보 보호 및 보안 → 입력 모니터링`에서 Typing Pet을 켠 뒤 앱을 다시 실행합니다.
+
+> 아래 설명은 Windows 버전을 기준으로 합니다. Mac 버전은 트레이 아이콘 대신 메뉴 막대 아이콘, 작업표시줄 대신 Dock을 사용하며, 자세한 내용은 앱 안의 `설명서`에서 볼 수 있습니다.
 
 > 다른 사이트나 제3자가 배포한 파일보다는 **이 GitHub 저장소의 Releases에 등록된 파일**을 사용하는 것을 권장합니다.
 
